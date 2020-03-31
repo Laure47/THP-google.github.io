@@ -1,0 +1,17 @@
+/*.bouton_haut{
+	display: flex;
+	justify-content: flex-end;*/
+
+.search-barre {
+
+	border: 1px black solid;
+  border-radius: 10px;
+  width: 200px;
+  height:20px;
+    
+  justify-content: center; align-items: flex-end;}
+
+    
+
+    
+
